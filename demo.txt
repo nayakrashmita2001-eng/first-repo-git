@@ -1,1 +1,14 @@
 this is the first session of git!
+
+
+Locally u will make code changes
+
+git init --> To initialize a folder as local repository
+
+git add --> To add changes to staging area (To consider changes)
+
+git commit -m --> will pick the changes from  staging area and commit them
+
+
+
+git push --> will take ur changes from local to remote
