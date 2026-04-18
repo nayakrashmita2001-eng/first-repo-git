@@ -1,1 +1,19 @@
 2nd demo
+
+
+git push
+Will only consider committed changes
+
+git commit
+will only consider changes that are staged
+
+git add
+
+Need to make local changes
+
+git init --> to convert a  normal folder to local repository
+
+u need a vs code
+
+u need a laptop
+
